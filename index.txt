@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Amerikala.com</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Amerikala.com</h1>
+    <p>Amerika'da Yaşayan Türkler İçin İlan, İş, Etkinlik ve Haber Platformu</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#">Anasayfa</a></li>
+      <li><a href="#">İlanlar</a></li>
+      <li><a href="#">İş İlanları</a></li>
+      <li><a href="#">Etkinlikler</a></li>
+      <li><a href="#">Haberler</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <img src="images/banner.jpg" alt="Amerikala Banner">
+  </section>
+
+  <section class="features">
+    <div class="feature">
+      <h2>İlan Ver</h2>
+      <p>İkinci el ürünlerini Amerika’daki Türklere ulaştır.</p>
+    </div>
+    <div class="feature">
+      <h2>İş Bul / İş Ver</h2>
+      <p>Topluluk içinde iş olanaklarını paylaş.</p>
+    </div>
+    <div class="feature">
+      <h2>Etkinlikler</h2>
+      <p>Yaklaşan Türk etkinliklerini keşfet veya ekle.</p>
+    </div>
+    <div class="feature">
+      <h2>Haberler</h2>
+      <p>Amerika’daki Türk topluluğuna özel güncel içerikler.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Amerikala.com | info@amerikala.com</p>
+  </footer>
+</body>
+</html>
